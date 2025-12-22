@@ -1,0 +1,24 @@
+.header-stripe p{
+    color: #F9FAF7;
+    padding-left: 50px;
+}
+
+.header-stripe a{
+    color: #F9FAF7;
+}
+
+.header{
+    background-color: #1F2937;
+    padding: 15px;
+}
+
+.header-stripe{
+    display: flex;
+    align-items: center;
+}
+
+.header-links{
+    margin-left: auto;
+    padding-right: 50px;
+    gap: 20px;
+}
