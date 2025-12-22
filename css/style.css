@@ -22,6 +22,7 @@
 }
 
 .header-links{
+    display: flex;
     margin-left: auto;
     padding-right: 50px;
     gap: 10px;
