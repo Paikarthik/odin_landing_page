@@ -158,3 +158,20 @@
     color: #F9FAF7;
 }
 
+.footer{
+    display: block;
+
+}
+
+.copyright{
+    background-color: #1F2937;
+    justify-content: center;
+    padding: 20px;
+}
+
+.copyright p{
+    color: #E5E7EB;
+    text-align: center;
+
+}
+
