@@ -98,3 +98,27 @@
     align-items: center;
 
 }
+
+.qoute-section{
+    background-color: #E5E7EB;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    
+    
+}
+
+.qoute p{
+    font-size: 36px;
+    color: #1F2937;
+}
+.writer {
+    align-self: flex-end;
+}
+
+.writer p {
+    font-weight: bolder;
+}
+
