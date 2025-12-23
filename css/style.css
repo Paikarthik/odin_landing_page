@@ -47,6 +47,8 @@
 
 .hero-text p {
     margin-bottom: 15px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .hero-image {
@@ -89,7 +91,6 @@
     display: flex;
     flex-direction: column;
 }
-
 
 .box-content{
     display: flex;
